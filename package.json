@@ -1,8 +1,11 @@
 {
-	"name": "simplify-base",
-	"description": "The base for a high-performance JavaScript 2D/3D polyline simplification library",
-	"homepage": "https://github.com/microjs/simplify-base/",
-	"repository" : {"type": "git", "url": "git://github.com/microjs/simplify-base.git"},
-	"main": "index.js",
-	"version": "0.0.0"
+  "name": "simplify-base",
+  "description": "The base for a high-performance JavaScript 2D/3D polyline simplification library",
+  "homepage": "https://github.com/microjs/simplify-base/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/microjs/simplify-base.git"
+  },
+  "main": "index.js",
+  "version": "0.0.1"
 }

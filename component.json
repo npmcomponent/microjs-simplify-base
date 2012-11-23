@@ -2,7 +2,7 @@
   "name": "simplify-base",
   "repo": "microjs/simplify-base",
   "description": "simplify-base is the base for a high-performance JavaScript polyline simplification library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
   "development": {},

@@ -1,4 +1,4 @@
-function (getSquareDistance, getSquareSegmentDistance) {
+module.exports = function (getSquareDistance, getSquareSegmentDistance) {
 
 	// distance-based simplification
   function simplifyRadialDistance(points, sqTolerance) {
